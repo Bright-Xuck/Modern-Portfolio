@@ -68,10 +68,5 @@ Update content in `index.html` sections.
 
 Chrome 90+, Firefox 88+, Safari 14+, Edge 90+
 
-## 👨‍💻 Created by
-
-**Njiknag Bright**
-
----
 
 ⭐ Star this repo if you found it helpful!
